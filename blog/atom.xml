@@ -7,7 +7,7 @@
     <link rel="alternate" href="https://electron-react-boilerplate.js.org/blog"/>
     <subtitle>The best place to stay up-to-date with the latest Electron React Boilerplate news and events.</subtitle>
     <logo>https://electron-react-boilerplate.js.org/logo/logo.svg</logo>
-    <rights>Copyright © 2018 Electron React Boilerplate</rights>
+    <rights>Copyright © 2019 Electron React Boilerplate</rights>
     <entry>
         <title type="html"><![CDATA[Hello World]]></title>
         <id>https://electron-react-boilerplate.js.org/blog/2018/10/22/hello-world.html</id>
